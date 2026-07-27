@@ -9,8 +9,8 @@
     phoneHref: "tel:+919913654239",
     whatsapp: "https://wa.me/919913654239",
     email: "info@dawater.in",
-    address: "SHELADIYA ERIS, C-1403, Club O7 Road, Shela, Ahmedabad, Gujarat 380058",
-    hours: "Mon–Sat: 9:00 AM – 7:00 PM",
+    address: "SHELADIA ERIS, C-1403, Club O7 Road, Shela, Ahmedabad, Gujarat 380058",
+    hours: "Mon–Sat: 9:00 AM – 8:00 PM",
   };
 
   function basePath() {

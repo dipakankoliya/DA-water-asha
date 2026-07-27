@@ -2,7 +2,7 @@
 
 **Business:** DA Water Treatment Expert (DA Water)  
 **Phone:** +91 9913654239  
-**Address:** SHELADIYA ERIS, C-1403, Club O7 Road, Shela, Ahmedabad, Gujarat 380058  
+**Address:** SHELADIA ERIS, C-1403, Club O7 Road, Shela, Ahmedabad, Gujarat 380058  
 **Canonical domain (assumed):** https://www.dawater.in/  
 **Positioning goal:** Become Ahmedabad’s most trusted end-to-end water treatment partner.
 
@@ -231,7 +231,7 @@ Nearby areas to expand next: Thaltej, Prahlad Nagar, Science City, South Bopal, 
 | Home | DA Water Treatment Expert \| Water Purification & Wastewater Solutions in Ahmedabad | DA Water in Shela, Ahmedabad delivers RO plants, wastewater treatment, testing, design, installation & AMC for homes, businesses & industries. |
 | About | About DA Water Treatment Expert \| Shela, Ahmedabad | Meet DA Water — Ahmedabad’s end-to-end water treatment partner for purification, wastewater and compliance-focused consulting. |
 | Services | Water Treatment Services in Ahmedabad \| DA Water | Explore purification, RO plants, ETP/STP, testing, filtration design, installation and AMC from DA Water Treatment Expert. |
-| Contact | Contact DA Water \| Shela, Ahmedabad | Call +91 9913654239 or visit SHELADIYA ERIS, C-1403, Club O7 Road, Shela for water treatment support. |
+| Contact | Contact DA Water \| Shela, Ahmedabad | Call +91 9913654239 or visit SHELADIA ERIS, C-1403, Club O7 Road, Shela for water treatment support. |
 | RO Plants | RO Plant Manufacturer & Supplier in Ahmedabad \| DA Water | Commercial and industrial RO plants engineered for Gujarat water profiles — design, install, AMC. |
 | Wastewater | ETP & STP Wastewater Treatment Ahmedabad \| DA Water | Effluent and sewage treatment systems with recycling options and practical compliance documentation. |
 | Shela | Water Treatment Company in Shela Ahmedabad \| DA Water | Local water purification, testing and AMC for Shela homes, societies and businesses. |
@@ -428,7 +428,7 @@ Local Water Issues · Buying Guides · Maintenance · Compliance · Industry App
 **Secondary:** Water purification service; Wastewater treatment plant; Water testing service  
 
 **Description (750 chars max — use trimmed version in GBP):**  
-DA Water Treatment Expert provides water purification, RO plants, wastewater treatment (ETP/STP), water quality testing, filtration design, installation and AMC for residential, commercial and industrial clients across Ahmedabad. Based at SHELADIYA ERIS, C-1403, Club O7 Road, Shela. Call +91 9913654239 for a free water audit.
+DA Water Treatment Expert provides water purification, RO plants, wastewater treatment (ETP/STP), water quality testing, filtration design, installation and AMC for residential, commercial and industrial clients across Ahmedabad. Based at SHELADIA ERIS, C-1403, Club O7 Road, Shela. Call +91 9913654239 for a free water audit.
 
 **Services:** Water purification; Industrial/commercial RO; Water softener; ETP; STP; Water testing; Filtration design; Installation; AMC; Consulting  
 

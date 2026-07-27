@@ -19,7 +19,7 @@ Open `index.html` in a browser (needs internet for Bootstrap/jQuery CDNs).
 ## Business
 
 - **Phone:** +91 9913654239  
-- **Address:** SHELADIYA ERIS, C-1403, Club O7 Road, Shela, Ahmedabad, Gujarat 380058  
+- **Address:** SHELADIA ERIS, C-1403, Club O7 Road, Shela, Ahmedabad, Gujarat 380058  
 - **Domain (assumed):** https://www.dawater.in/
 
 ## Features
